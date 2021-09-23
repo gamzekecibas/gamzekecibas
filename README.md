@@ -1,4 +1,29 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+<p align='center'>
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/gamze-ke%C3%A7iba%C5%9F-bb755b131/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:gkecibas@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=yellow" />
+  </a>&nbsp;&nbsp;
+    
+    
+</p>
+
+- 🔭 I’m currently working on Digital Twins.  
+- 🌱 I’m currently learning Deep Learning.  
+- &#x1F916; Ask me about Industry 4.0. I like discussing innovative concepts!  
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=tokyonight&langs_count=4&layout=compact&hide_border=true" /> 
+</p>
 
 <!--
 **gamzekecibas/gamzekecibas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Digital Twins.  
-🌱 I’m currently learning Deep Learning.  
-
-📫 How to reach me: gkecibas@gmail.com
-
