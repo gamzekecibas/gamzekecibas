@@ -21,8 +21,8 @@
 - &#x1F916; Ask me about Industry 4.0. I like discussing innovative concepts!  
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=tokyonight&langs_count=4&layout=compact&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=github_dark&langs_count=4&layout=compact&hide_border=true" /> 
 </p>
 
 <!--
