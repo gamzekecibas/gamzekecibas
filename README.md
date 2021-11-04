@@ -10,11 +10,9 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:gkecibas@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=yellow" />
-  </a>&nbsp;&nbsp;
-  <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=red" alt="watching_count" />
- </p>  
-    
+  </a>&nbsp;&nbsp;  
+  
+  
 </p>
 
 - 🔭 I’m currently working on Digital Twins.  
