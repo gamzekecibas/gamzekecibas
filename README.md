@@ -1,7 +1,6 @@
 <h1 align='center'>
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-
 <p align='center'>
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -12,7 +11,9 @@
   <a href="mailto:gkecibas@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=yellow" />
   </a>&nbsp;&nbsp;
-    
+  <p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=red" alt="watching_count" />
+ </p>  
     
 </p>
 
