@@ -10,8 +10,7 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:gkecibas@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=yellow" />
-  </a>&nbsp;&nbsp;  
-  
+  </a>&nbsp;&nbsp; 
   
 </p>
 
@@ -19,6 +18,8 @@
 - 🌱 I’m currently learning Deep Learning.  
 - &#x1F916; Ask me about Industry 4.0. I like discussing innovative concepts!  
 
+<!-- [![Gamze Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gamzekecibas&theme=dark&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&fire=DD2727)]()
+-->
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=github_dark&langs_count=4&layout=compact&hide_border=true" /> 
