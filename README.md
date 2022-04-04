@@ -22,7 +22,7 @@
 -->
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=github_dark&langs_count=4&layout=compact&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=github_dark&langs_count=5&layout=compact&hide_border=true" /> 
 </p>
 
 <!--
