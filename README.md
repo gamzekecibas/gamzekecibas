@@ -11,7 +11,7 @@
   <a href="mailto:gkecibas@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=yellow" />
   </a>&nbsp;&nbsp; 
-  
+  <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
 - 🔭 I’m currently working on Digital Twins.  
