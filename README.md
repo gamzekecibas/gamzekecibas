@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 </h1>
 <p align='center'>
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
