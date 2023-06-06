@@ -1,7 +1,10 @@
 <h1 align='center'>
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 </h1>
-<p align='center'>
+
+![](https://komarev.com/ghpvc/?username=gamzekecibas&color=orange&style=plastic) 
+
+<p align='center'> 
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
@@ -21,11 +24,11 @@
 
 <!-- [![Gamze Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gamzekecibas&theme=dark&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&fire=DD2727)]()
 -->
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=github_dark&langs_count=5&layout=compact&hide_border=true" /> 
 </p>
-
 <!--
 **gamzekecibas/gamzekecibas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
