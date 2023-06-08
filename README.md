@@ -29,6 +29,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gamzekecibas&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamzekecibas&count_private=true&theme=github_dark&langs_count=5&layout=compact&hide_border=true" /> 
 </p>
+
+<p align='center'>
+  <img align="center" src="https://streak-stats.demolab.com/?user=gamzekecibas&theme=dark&hide_border=true"/>
+</p>
 <!--
 **gamzekecibas/gamzekecibas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
