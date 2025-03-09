@@ -18,9 +18,13 @@
 
 <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on Digital Twins.  
-- 🌱 I’m currently learning Deep Learning.  
-- &#x1F916; Ask me about Industry 4.0. I like discussing innovative concepts!  
+I'm an endless learner diving into the world of AI/ML with curiosity and excitement.  
+
+- 💡 Passionate about exploring artificial intelligence and machine learning – I’m always chasing new ideas and innovative solutions.  
+- 🌱 Committed to growing my skills and understanding of cutting-edge tech every day.  
+- 🚀 Enthusiast of all things AI/ML – from theory to real-world impact, I love pushing the possibilities forward.  
+
+*When I’m not coding, I’m dreaming up ways to make tech smarter.* 
 
 <!-- [![Gamze Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gamzekecibas&theme=dark&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&fire=DD2727)]()
 -->
